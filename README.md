@@ -62,4 +62,15 @@ https://viewer.diagrams.net/?tags=%7B%7D&lightbox=1&highlight=0000ff&edit=_blank
       }
 
       return 0;
-      
+
+## 3. Результаты работы программы
+
+Sample Input:
+  - 15
+
+Sample Output:
+ - В числе 15 есть цифра 5
+
+## 4. Информация о разработчике
+
+Гусев Степан, бИЦ-251
